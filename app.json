@@ -1,7 +1,7 @@
 {
     "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
+    "repository": "https://github.com/KioniNdungu/vih",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
@@ -43,20 +43,36 @@
         
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
-    "required" : true,
+    "required" : false,
   "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
     },
         
         "WELCOME_MSG" :{
     "description" : "TYPE WELCOME MSG",
     "required" : true,
-  "value" : "*HELLO WELCOME TO OUR GROUP*"
+  "value" : "* 
+ ╭────────────────
+ │   ❰⛊'¯`••..• 🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀 •..••'¯`⛊❱
+ ╰────────────────
+ ╭────────────────
+ │ Hello 
+ │ 🥰 *Welcome To our Group*
+ │
+ │*Enjoy Yourself Here*
+ ╰────────────────* "
     },
   
                 "BYE_MSG" :{
     "description" : "TYPE BYE MSG",
     "required" : true,
-  "value" : "*BYE BRO*"
+  "value" : "* 
+ ╭────────────────
+ │   ❰⛊'¯`••..• 🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀 •..••'¯`⛊❱
+ ╰────────────────
+ ╭────────────────
+ │ Bye Bye  │
+ │*Thugs just leave, they dont say goodbye.*
+ ╰────────────────* "
     },
         
         "ALIVE_MSG" :{
@@ -98,66 +114,66 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "25493715445"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "25493715445"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "254701894950"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "Void Bot"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "Void."
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
-    "required" : true,
+    "required" : false,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
-    "required" : true,
+    "required" : false,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY IT HACKS_TECHGIANTS"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY VOID*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://ibb.co/V23tL8m"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
-    "required" : true,
+    "required" : false,
     "value" :"https://youtu.be/Z9rIR0Vopb8"
     }
     },
