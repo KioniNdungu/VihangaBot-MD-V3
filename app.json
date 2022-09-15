@@ -50,30 +50,32 @@
         "WELCOME_MSG" :{
     "description" : "TYPE WELCOME MSG",
     "required" : true,
-  "value" : "* 
+  "value" : "*
  ╭────────────────
- │   ❰⛊'¯`••..• 🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀 •..••'¯`⛊❱
+ │   ❰⛊••..• 🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀 •..••⛊❱
  ╰────────────────
  ╭────────────────
  │ Hello 
  │ 🥰 *Welcome To our Group*
  │
  │*Enjoy Yourself Here*
- ╰────────────────* "
-    },
+ ╰────────────────
+*"  
+     },
   
                 "BYE_MSG" :{
     "description" : "TYPE BYE MSG",
     "required" : true,
   "value" : "* 
  ╭────────────────
- │   ❰⛊'¯`••..• 🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀 •..••'¯`⛊❱
+ │   ❰⛊••..• 🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀 •..••⛊❱
  ╰────────────────
  ╭────────────────
  │ Bye Bye  │
  │*Thugs just leave, they dont say goodbye.*
- ╰────────────────* "
-    },
+ ╰────────────────
+*"  
+     },
         
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
